@@ -194,9 +194,9 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 📧 Contacto
 
-**Desarrollador**: Tu Nombre  
-**Email**: tu-email@ejemplo.com  
-**Proyecto**: [https://github.com/tu-usuario/stock-management-system](https://github.com/tu-usuario/stock-management-system)
+**Desarrollador**: mjsosapy  
+**GitHub**: [@mjsosapy](https://github.com/mjsosapy)  
+**Proyecto**: [https://github.com/mjsosapy/stock-management-system](https://github.com/mjsosapy/stock-management-system)
 
 ## 🙏 Agradecimientos
 
